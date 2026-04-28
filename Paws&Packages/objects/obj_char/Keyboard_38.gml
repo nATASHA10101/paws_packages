@@ -3,5 +3,5 @@
 /// @DnDHash : 1DAF2146
 /// @DnDArgument : "expr" "-var_speed"
 /// @DnDArgument : "expr_relative" "1"
-/// @DnDArgument : "var" "yprevious"
-yprevious += -var_speed;
+/// @DnDArgument : "var" "y"
+y += -var_speed;
