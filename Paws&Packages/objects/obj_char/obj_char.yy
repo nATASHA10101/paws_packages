@@ -47,6 +47,8 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_next_level","path":"objects/obj_next_level/obj_next_level.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_next_level2","path":"objects/obj_next_level2/obj_next_level2.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_cone","path":"objects/obj_cone/obj_cone.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_dog_enemy2","path":"objects/obj_dog_enemy2/obj_dog_enemy2.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_dog_enemy3","path":"objects/obj_dog_enemy3/obj_dog_enemy3.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],

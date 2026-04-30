@@ -1,12 +1,12 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_dog_enemy1",
+  "name": "obj_dog_enemy3",
   "spriteId": {
-    "name": "spr_dog_enemy1",
-    "path": "sprites/spr_dog_enemy1/spr_dog_enemy1.yy",
+    "name": "spr_dog_enemy3",
+    "path": "sprites/spr_dog_enemy3/spr_dog_enemy3.yy",
   },
-  "solid": true,
+  "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -26,8 +26,8 @@
   "physicsShapePoints": [],
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":0,"collisionObjectId":null,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_block_enemy","path":"objects/obj_block_enemy/obj_block_enemy.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_block_enemy","path":"objects/obj_block_enemy/obj_block_enemy.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],

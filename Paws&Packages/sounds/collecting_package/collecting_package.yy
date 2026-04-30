@@ -14,10 +14,10 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "collecting_package",
-  "duration": 0.0,
+  "soundFile": "collecting_package.mp3",
+  "duration": 2.043991,
   "parent": {
-    "name": "Paws&Packages",
-    "path": "Paws&Packages.yyp",
+    "name": "Audio",
+    "path": "folders/Audio.yy",
   },
 }
