@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_space_start",
+  "name": "obj_space_start_game",
   "spriteId": null,
   "solid": false,
   "visible": true,
