@@ -15,3 +15,6 @@ global.packages += 1;
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
 /// @DnDHash : 1926D089
+/// @DnDArgument : "soundid" "collecting_package"
+/// @DnDSaveInfo : "soundid" "collecting_package"
+audio_play_sound(collecting_package, 0, 0, 1.0, undefined, 1.0);

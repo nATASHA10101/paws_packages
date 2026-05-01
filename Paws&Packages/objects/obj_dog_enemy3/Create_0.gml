@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 75C552A7
-/// @DnDArgument : "expr" "4"
+/// @DnDArgument : "expr" "3"
 /// @DnDArgument : "var" "var_dogspeed"
-var_dogspeed = 4;
+var_dogspeed = 3;
 
 /// @DnDAction : YoYo Games.Movement.Set_Direction_Random
 /// @DnDVersion : 1.1
