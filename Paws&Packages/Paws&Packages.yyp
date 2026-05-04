@@ -45,6 +45,7 @@
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},"order":3,},
     {"id":{"name":"spr_left","path":"sprites/spr_left/spr_left.yy",},"order":2,},
     {"id":{"name":"spr_package","path":"sprites/spr_package/spr_package.yy",},"order":18,},
+    {"id":{"name":"spr_","path":"sprites/spr_/spr_.yy",},"order":46,},
     {"id":{"name":"spr_game_cover","path":"sprites/spr_game_cover/spr_game_cover.yy",},"order":38,},
     {"id":{"name":"spr_flower","path":"sprites/spr_flower/spr_flower.yy",},"order":41,},
     {"id":{"name":"spr_dog_enemy1","path":"sprites/spr_dog_enemy1/spr_dog_enemy1.yy",},"order":14,},
