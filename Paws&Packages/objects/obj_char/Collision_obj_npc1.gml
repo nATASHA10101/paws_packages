@@ -1,11 +1,6 @@
-/// @DnDAction : YoYo Games.Movement.Set_Speed
-/// @DnDVersion : 1
-/// @DnDHash : 0F40B7A6
-speed = 0;
-
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1
-/// @DnDHash : 49CAB1E1
+/// @DnDHash : 7C87958E
 /// @DnDArgument : "soundid" "cat_meow"
 /// @DnDSaveInfo : "soundid" "cat_meow"
 audio_play_sound(cat_meow, 0, 0, 1.0, undefined, 1.0);
